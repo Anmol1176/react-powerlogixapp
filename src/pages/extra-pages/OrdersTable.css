@@ -1,0 +1,10 @@
+.style {
+    /* backgroundColor: '#f0f0f0',
+     color: 'grey' 
+    hover:{{ color: 'black' }} */
+    background-color: #f0f0f0;
+    color: grey;
+}
+.style:hover {
+    color: black;
+}
